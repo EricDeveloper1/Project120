@@ -1,0 +1,19 @@
+body {
+    background: lemonchiffon;
+    font-family: Maiandra GD;
+}
+
+.text {
+    font-size: 23px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background: darkgrey;
+    line-height: 3;
+    text-align: center;
+    font-family: Roboto;
+  }
